@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAStoreVis", "HAStoreVis\HAStoreVis.csproj", "{9B606D0B-6F63-4A49-8362-C3EE4A0A9B1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{E1900B93-DC43-4236-BF01-FA2251C153BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B606D0B-6F63-4A49-8362-C3EE4A0A9B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B606D0B-6F63-4A49-8362-C3EE4A0A9B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B606D0B-6F63-4A49-8362-C3EE4A0A9B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B606D0B-6F63-4A49-8362-C3EE4A0A9B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1E7450-3289-4342-96D2-F30F207D9A43}
+	EndGlobalSection
+EndGlobal
